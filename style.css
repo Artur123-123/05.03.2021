@@ -49,3 +49,13 @@
 .footer-colour {
     background-color: rgb(0, 0, 0);
 }
+
+#menu {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.padding2 {
+    padding-top: 10%;
+}
