@@ -1,0 +1,42 @@
+.black-colour {
+    background-color: black;
+}
+
+.white-colour {
+    color: white;
+}
+
+.nav-font {
+    font-size:x-large;
+}
+
+.kotki {
+    background-image: url(kittens.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+}
+
+.h1 {
+    font-family: 'Merriweather', serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.font {
+    font-family: 'Merriweather', serif;
+    color: rgb(0, 0, 0);
+}
+
+.body {
+    background-color: rgb(188, 188, 229);
+}
+
+.footer-colour {
+    background-color: rgb(0, 0, 0);
+}
+
+.padding {
+    padding-top: 3%;
+}

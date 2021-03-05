@@ -1,0 +1,51 @@
+.black-colour {
+    background-color: black;
+}
+
+.white-colour {
+    color: white;
+}
+
+.nav-font {
+    font-size:x-large;
+}
+
+.grid1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+}
+
+.grid-item1 {
+    grid-column: 2;
+    grid-row: 1;
+    color: black;
+}
+
+.grid-item2 {
+    grid-column: 1;
+    grid-row: 1;
+    color: black;
+}
+
+.body {
+    background-color: rgb(188, 188, 229);
+}
+
+.color {
+    background-color: rgb(125, 125, 199);
+}
+
+.padding {
+    padding-top: 3%;
+}
+
+.font {
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: x-large;
+}
+
+.footer-colour {
+    background-color: rgb(0, 0, 0);
+}
