@@ -4,6 +4,7 @@
 
 .white-colour {
     color: white;
+    font-family: 'Playfair Display', serif;
 }
 
 .nav-font {
@@ -65,7 +66,7 @@
 }
 
 .h1 {
-    font-family: 'Merriweather', serif;
+    font-family: 'Playfair Display', serif;
     color: rgb(0, 0, 0);
     text-align: center;
 }
